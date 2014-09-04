@@ -1,7 +1,7 @@
 /*
  * mm.c
  *
- * Name: Jingyu Wang   ID: jingyuw  Section: I
+ * Name: Jingyu Wang
  * Util: 91%    KOPs: 15100   PERFINDEX: 98
  *
  * Overall Algorithm Description:
